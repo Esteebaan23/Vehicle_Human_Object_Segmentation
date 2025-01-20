@@ -6,7 +6,7 @@ This project focuses on the segmentation of vehicles, humans, and static objects
 
 - **Dataset Example with Annotation**:
 
-  ![Dataset Annotation](path/to/dataset_annotation_image.png)
+  ![Dataset Annotation](Images/input.png)
 
 ## Methodology
 
