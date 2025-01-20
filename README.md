@@ -1,5 +1,3 @@
-# Vehicle_Human_Object_Segmentation
-
 # Vehicle, Human, and Static Object Segmentation in Urban Areas
 
 This project focuses on the segmentation of vehicles, humans, and static objects in urban areas of the city. The dataset used includes annotations of the following type:
