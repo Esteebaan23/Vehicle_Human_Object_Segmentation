@@ -1,6 +1,0 @@
-train: C:/Users/User/Downloads/YOLO/train2/
-val: C:/Users/User/Downloads/YOLO/val2/
-
-nc: 3
-
-names: ["car", "person", "Structure"]
