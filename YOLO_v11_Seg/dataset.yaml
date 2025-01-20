@@ -1,0 +1,6 @@
+train: ...
+val: ...
+
+nc: 3
+
+names: ["vehicle", "human", "Structure"]
