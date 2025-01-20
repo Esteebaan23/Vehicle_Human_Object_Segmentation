@@ -8,6 +8,6 @@ To obtain the TXT files from YOLO you have to follow the following order.
 
   **Note**: Images must have their respective annotations, which should look as follows:
 
-  ![Annotation Example](Vehicle_Human_Object_Segmentation/Images/label.png)
+  ![Annotation Example](label.png)
 
 
