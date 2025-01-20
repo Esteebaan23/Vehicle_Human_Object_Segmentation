@@ -23,15 +23,27 @@ The results for each model are shown in the following figures:
 
 - **YOLO Results**:
 
-  ![YOLO Results](path/to/yolo_results_image.png)
+  <div style="display: flex; justify-content: space-between;">
+    <img src="Images/overlay_predicted_yolo1.png" alt="YOLO Result 1" style="width: 48%;">
+    <img src="Images/overlay_predicted_yolo5.png" alt="YOLO Result 2" style="width: 48%;">
+  </div>
 
 - **U-Net Results**:
 
-  ![U-Net Results](path/to/unet_results_image.png)
+  <div style="display: flex; justify-content: space-between;">
+    <img src="path/to/unet_result_image1.png" alt="U-Net Result 1" style="width: 48%;">
+    <img src="path/to/unet_result_image2.png" alt="U-Net Result 2" style="width: 48%;">
+  </div>
 
 - **SAM Results**:
 
-  ![SAM Results](path/to/sam_results_image.png)
+  <div style="display: flex; justify-content: space-between;">
+    <img src="path/to/sam_result_image1.png" alt="SAM Result 1" style="width: 48%;">
+    <img src="path/to/sam_result_image2.png" alt="SAM Result 2" style="width: 48%;">
+  </div>
 
 Replace `path/to/...` with the actual paths to your images.
+
+
+
 
